@@ -5,7 +5,7 @@
   "author": {
     "name": "Maciek"
   },
-  "repository": "https://github.com/maciek/claude-interview-plugin",
+  "repository": "https://github.com/szulcmaciej/claude-interview-plugin",
   "license": "MIT",
   "keywords": ["interview", "spec", "requirements", "discovery", "planning"]
 }

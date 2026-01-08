@@ -4,17 +4,9 @@ A Claude Code plugin that conducts deep, thorough interviews about any topic and
 
 ## Installation
 
-### Quick install (local)
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-interview-plugin.git
+git clone https://github.com/szulcmaciej/claude-interview-plugin.git
 claude --plugin-dir ./claude-interview-plugin
-```
-
-### From marketplace (once published)
-
-```bash
-claude plugin install interview@marketplace-name
 ```
 
 ## Usage
