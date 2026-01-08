@@ -1,0 +1,11 @@
+{
+  "name": "interview",
+  "description": "Deep interview assistant that thoroughly explores any topic through probing questions, then generates a comprehensive spec document",
+  "version": "1.0.0",
+  "author": {
+    "name": "Maciek"
+  },
+  "repository": "https://github.com/maciek/claude-interview-plugin",
+  "license": "MIT",
+  "keywords": ["interview", "spec", "requirements", "discovery", "planning"]
+}
