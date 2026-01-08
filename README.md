@@ -5,6 +5,16 @@ A Claude Code plugin that conducts deep, thorough interviews about any topic and
 ## Installation
 
 ```bash
+# Add the marketplace (one-time)
+/plugin marketplace add szulcmaciej/claude-interview-plugin
+
+# Install the plugin
+/plugin install interview@interview
+```
+
+### Alternative (development)
+
+```bash
 git clone https://github.com/szulcmaciej/claude-interview-plugin.git
 claude --plugin-dir ./claude-interview-plugin
 ```

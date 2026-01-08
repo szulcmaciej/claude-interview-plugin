@@ -1,0 +1,14 @@
+{
+  "name": "interview",
+  "owner": {
+    "name": "Maciek Szulc",
+    "url": "https://github.com/szulcmaciej"
+  },
+  "plugins": [
+    {
+      "name": "interview",
+      "source": "./",
+      "description": "Deep interview assistant that thoroughly explores any topic through probing questions, then generates a comprehensive spec document"
+    }
+  ]
+}
